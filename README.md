@@ -42,7 +42,7 @@ UdhaarAI is an innovative voice-first lending platform that transforms the tradi
 
 ## 🚀 Live Demo
 
-**🌐 [Try UdhaarAI Live](https://udhaarai-voice-first-j827.bolt.host)**
+**🌐 [Try UdhaarAI Live](https://v0-udhaar-ai-lending-app.vercel.app)**
 
 *Click the link above to experience the voice-first lending platform in action!*
 
